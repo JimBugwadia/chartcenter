@@ -177,3 +177,9 @@ repositories:
     maintainers:
       - name: Vector Maintainers
         email: vector@timber.io
+  - name: Kyverno
+    type: helm
+    url: https://kyverno.github.io/kyverno/
+    maintainers:
+      - name: Jim Bugwadia
+        email: jim@nirmata.com        
